@@ -15,8 +15,8 @@ body {
     border-radius: 50%;
     background-color: blue;
     max-width: 500px;
-    min-width: 450px;
-    min-height: 450px;
+    min-width: 400px;
+    min-height: 400px;
     padding: 10px;
     display: flex;
     flex-direction: column;
