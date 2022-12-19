@@ -59,6 +59,7 @@ button {
     border-radius: 15px;
     background-color: lightgray;
     box-shadow: 3px 3px 3px;
+    padding:5px 8px;
 }
 
 button:hover {
